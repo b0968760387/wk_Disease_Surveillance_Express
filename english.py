@@ -58,3 +58,4 @@ print(detail_content)
 time.sleep(100)
 # %%
 score_main
+score12
